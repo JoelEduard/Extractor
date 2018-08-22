@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Properties;
-///comentario de prueba
+///comentario de prueba ygjhg
 public class Principal
 {
   public Principal() {}
